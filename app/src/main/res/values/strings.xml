@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasySlicer</string>
+
+    <string name="item_removed_message">Sin el permiso para la cámara no hay pizza, lo siento</string>
+</resources>
